@@ -1,7 +1,7 @@
 Word_Sense_Disambiguation
 =========================
 
-Word Sense Disambiguation using Naive Bayesian Classifier
+Word Sense Disambiguation using Naive Bayesian Classifier using Python
 
  Problem 
  Description       :  Word Sense Disambiguation (WSD) is a technique to 
